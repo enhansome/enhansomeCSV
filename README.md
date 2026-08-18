@@ -29,7 +29,7 @@ Here are some awesome tools for dealing with CSV:
 ## Tools
 
 * [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) ⚠️ Archived - Comprehensive examples of using awk.
-* [QSV](https://github.com/dathere/qsv) ⭐ 3,756 | 🐛 26 | 🌐 Rust | 📅 2026-08-17 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+* [QSV](https://github.com/dathere/qsv) ⭐ 3,757 | 🐛 26 | 🌐 Rust | 📅 2026-08-18 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 * [ParaText](https://github.com/wiseio/paratext) ⭐ 1,052 | 🐛 34 | 🌐 C++ | 📅 2023-09-05 - CSV parsing at 2.5 GB per second.
 * [graph-cli](https://github.com/mcastorina/graph-cli) ⭐ 809 | 🐛 26 | 🌐 Python | 📅 2022-09-03 - Flexible command line tool to create graphs from CSV data.
 * [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) ⭐ 718 | 🐛 21 | 🌐 Python | 📅 2025-10-04 - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) ⭐ 718 | 🐛 21 | 🌐 Python | 📅 2025-10-04, [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
@@ -112,7 +112,7 @@ Here are some awesome tools for dealing with CSV:
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,119 | 🐛 158 | 📅 2026-08-04 - A topic-centric list of high-quality open datasets in public domains.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,128 | 🐛 158 | 📅 2026-08-04 - A topic-centric list of high-quality open datasets in public domains.
 * [United Nations data](https://data.un.org) - Data from the UN
 
 ## Conferences
@@ -162,4 +162,4 @@ To the extent possible under law, [Leon Bambrick](http://secretgeek.net) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
