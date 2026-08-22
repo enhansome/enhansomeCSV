@@ -27,10 +27,10 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-21T02:28:28Z",
+            "last_commit": "2026-08-21T18:48:17Z",
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3762
+            "stars": 3764
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-12-03T03:05:48Z",
             "owner": "microsoft",
             "repo": "vscode-data-wrangler",
-            "stars": 609
+            "stars": 607
           }
         },
         {
@@ -195,7 +195,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:59:42.829Z",
+    "last_updated": "2026-08-22T02:51:23.715Z",
     "original_repository": "secretGeek/awesomeCSV",
     "original_repository_id": 152835793,
     "original_repository_sha": "adff7b0766abe06c9987cf4703b3918ce5bb9074",
