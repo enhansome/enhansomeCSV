@@ -29,7 +29,7 @@ Here are some awesome tools for dealing with CSV:
 ## Tools
 
 * [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) ⚠️ Archived - Comprehensive examples of using awk.
-* [QSV](https://github.com/dathere/qsv) ⭐ 3,766 | 🐛 27 | 🌐 Rust | 📅 2026-08-23 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+* [QSV](https://github.com/dathere/qsv) ⭐ 3,766 | 🐛 28 | 🌐 Rust | 📅 2026-08-24 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 * [ParaText](https://github.com/wiseio/paratext) ⭐ 1,052 | 🐛 34 | 🌐 C++ | 📅 2023-09-05 - CSV parsing at 2.5 GB per second.
 * [graph-cli](https://github.com/mcastorina/graph-cli) ⭐ 809 | 🐛 26 | 🌐 Python | 📅 2022-09-03 - Flexible command line tool to create graphs from CSV data.
 * [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) ⭐ 718 | 🐛 21 | 🌐 Python | 📅 2025-10-04 - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) ⭐ 718 | 🐛 21 | 🌐 Python | 📅 2025-10-04, [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
@@ -72,15 +72,15 @@ Here are some awesome tools for dealing with CSV:
 
 ### Treat CSV as SQL
 
+* [PSKit Query](https://github.com/dfinke/PSKit#sql-query) ⭐ 40 | 🐛 3 | 🌐 PowerShell | 📅 2021-08-05 — Powershell module lets you run simple queries over objects, including imported with csv
 * [TextQL](http://dinedal.github.io/textql/) - Execute SQL against CSV or TSV.
 * [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) - Faceted browse and a JSON API for any CSV File or SQLite DB.
 * [q](https://harelba.github.io/q/) - Run SQL Directly on CSV Files
 * [RBQL](https://rbql.org) - Rainbow Query Language, a SQL-like language with JavaScript or Python backend.
-* [PSKit Query](https://github.com/dfinke/PSKit#sql-query) ⭐ 40 | 🐛 3 | 🌐 PowerShell | 📅 2021-08-05 — Powershell module lets you run simple queries over objects, including imported with csv
 
 ### Convert to or from CSV
 
-* [CSV to Table](https://github.com/vividvilla/csvtotable) ⭐ 1,177 | 🐛 4 | 🌐 Go | 📅 2026-08-22 - Convert CSV files to searchable and sortable HTML table.
+* [CSV to Table](https://github.com/vividvilla/csvtotable) ⭐ 1,178 | 🐛 4 | 🌐 Go | 📅 2026-08-24 - Convert CSV files to searchable and sortable HTML table.
 
 ### CSV <-> JSON
 
@@ -109,10 +109,10 @@ Here are some awesome tools for dealing with CSV:
 
 ## Data
 
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,583 | 🐛 159 | 📅 2026-08-23 - A topic-centric list of high-quality open datasets in public domains.
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,559 | 🐛 159 | 📅 2026-08-23 - A topic-centric list of high-quality open datasets in public domains.
 * [United Nations data](https://data.un.org) - Data from the UN
 
 ## Conferences
@@ -123,6 +123,7 @@ Here are some awesome tools for dealing with CSV:
 
 > The wonderful thing about standards is that there are so many of them to choose from.<br />—(Possibly) Grace Hopper.
 
+* [CSVY](https://github.com/csvy/csvy.github.io/blob/master/index.md) ⭐ 62 | 🐛 7 | 🌐 CSS | 📅 2018-11-19 - A standard for adding a YAML header to CSV files to describe their format
 * [RFC 4180](https://tools.ietf.org/html/rfc4180) ([html version](http://www.faqs.org/rfcs/rfc4180.html)) - "*Common format and MIME Type for Comma-Separated Values (CSV) Files*".
   * [Definition of the CSV Format](https://tools.ietf.org/html/rfc4180#section-2)
   * [MIME Type Registration of text/csv](https://tools.ietf.org/html/rfc4180#section-3)
@@ -130,7 +131,6 @@ Here are some awesome tools for dealing with CSV:
 * [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 * [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
 * [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
-* [CSVY](https://github.com/csvy/csvy.github.io/blob/master/index.md) ⭐ 62 | 🐛 7 | 🌐 CSS | 📅 2018-11-19 - A standard for adding a YAML header to CSV files to describe their format
 
 ## META: Other similar lists
 

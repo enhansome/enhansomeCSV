@@ -15,7 +15,7 @@
             "last_commit": "2024-06-05T08:57:02Z",
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10189
+            "stars": 10188
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:16:03Z",
+            "last_commit": "2026-08-24T13:43:32Z",
             "owner": "dathere",
             "repo": "qsv",
             "stars": 3766
@@ -192,10 +192,123 @@
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PSKit Query",
+              "description": "Powershell module lets you run simple queries over objects, including imported with csv",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183315387,
+                "language": "PowerShell",
+                "last_commit": "2021-08-05T23:17:36Z",
+                "owner": "dfinke",
+                "repo": "PSKit",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Treat CSV as SQL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CSV to Table",
+              "description": "Convert CSV files to searchable and sortable HTML table.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96341852,
+                "language": "Go",
+                "last_commit": "2026-08-24T07:56:24Z",
+                "owner": "vividvilla",
+                "repo": "csvtotable",
+                "stars": 1178
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Convert to or from CSV"
+        }
+      ],
+      "title": "Generate Table Schema"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-public-datasets",
+          "description": "A topic-centric list of high-quality open datasets in public domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26898879,
+            "language": null,
+            "last_commit": "2026-08-23T23:52:17Z",
+            "owner": "awesomedata",
+            "repo": "awesome-public-datasets",
+            "stars": 78583
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": "The wonderful thing about standards is that there are so many of them to choose from.—(Possibly) Grace Hopper.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSVY",
+          "description": "A standard for adding a YAML header to CSV files to describe their format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41901259,
+            "language": "CSS",
+            "last_commit": "2018-11-19T00:15:23Z",
+            "owner": "csvy",
+            "repo": "csvy.github.io",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "Standards"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "structured-text-tools",
+          "description": "List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34684868,
+            "language": null,
+            "last_commit": "2026-08-12T19:53:32Z",
+            "owner": "dbohdan",
+            "repo": "structured-text-tools",
+            "stars": 7144
+          }
+        }
+      ],
+      "title": "META: Other similar lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:00:37.705Z",
+    "last_updated": "2026-08-24T14:20:55.901Z",
     "original_repository": "secretGeek/awesomeCSV",
     "original_repository_id": 152835793,
     "original_repository_sha": "adff7b0766abe06c9987cf4703b3918ce5bb9074",
