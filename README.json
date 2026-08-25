@@ -27,7 +27,7 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:43:32Z",
+            "last_commit": "2026-08-24T16:10:40Z",
             "owner": "dathere",
             "repo": "qsv",
             "stars": 3766
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-23T23:52:17Z",
+            "last_commit": "2026-08-24T19:56:43Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78583
+            "stars": 78601
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:55.901Z",
+    "last_updated": "2026-08-25T02:55:51.659Z",
     "original_repository": "secretGeek/awesomeCSV",
     "original_repository_id": 152835793,
     "original_repository_sha": "adff7b0766abe06c9987cf4703b3918ce5bb9074",
