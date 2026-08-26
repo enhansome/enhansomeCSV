@@ -15,7 +15,7 @@
             "last_commit": "2024-06-05T08:57:02Z",
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10188
+            "stars": 10189
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:03:57Z",
+            "last_commit": "2026-08-25T16:06:27Z",
             "owner": "dathere",
             "repo": "qsv",
             "stars": 3766
@@ -232,7 +232,7 @@
                 "last_commit": "2026-08-24T07:56:24Z",
                 "owner": "vividvilla",
                 "repo": "csvtotable",
-                "stars": 1178
+                "stars": 1179
               }
             }
           ],
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-24T19:56:43Z",
+            "last_commit": "2026-08-25T16:12:04Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78603
+            "stars": 78633
           }
         }
       ],
@@ -300,7 +300,7 @@
             "last_commit": "2026-08-12T19:53:32Z",
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7144
+            "stars": 7145
           }
         }
       ],
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:07:27.337Z",
+    "last_updated": "2026-08-26T03:01:42.829Z",
     "original_repository": "secretGeek/awesomeCSV",
     "original_repository_id": 152835793,
     "original_repository_sha": "adff7b0766abe06c9987cf4703b3918ce5bb9074",
