@@ -15,7 +15,7 @@
             "last_commit": "2024-06-05T08:57:02Z",
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10189
+            "stars": 10190
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-25T16:06:27Z",
+            "last_commit": "2026-08-27T12:01:26Z",
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3766
+            "stars": 3768
           }
         },
         {
@@ -255,10 +255,10 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-25T16:12:04Z",
+            "last_commit": "2026-08-26T21:15:40Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78633
+            "stars": 78670
           }
         }
       ],
@@ -308,9 +308,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:01:42.829Z",
-    "original_repository": "secretGeek/awesomeCSV",
-    "original_repository_id": 152835793,
+    "last_updated": "2026-08-27T12:12:13.126Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 152835793,
+      "language": "PowerShell",
+      "last_commit": "2026-06-11T02:43:51Z",
+      "owner": "secretGeek",
+      "repo": "AwesomeCSV",
+      "stars": 943
+    },
     "original_repository_sha": "adff7b0766abe06c9987cf4703b3918ce5bb9074",
     "enhanced_repository": "enhansome/enhansomeCSV",
     "enhanced_repository_description": null,
