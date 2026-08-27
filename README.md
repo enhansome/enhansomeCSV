@@ -134,7 +134,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## META: Other similar lists
 
-* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,145 | 🐛 5 | 📅 2026-08-12 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,145 | 🐛 6 | 📅 2026-08-12 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 * [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 * [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 
