@@ -16,7 +16,8 @@
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
             "stars": 10190
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 320463703,
             "language": "Rust",
-            "last_commit": "2026-08-27T12:01:26Z",
+            "last_commit": "2026-08-28T13:44:51Z",
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3768
-          }
+            "stars": 3769
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "wiseio",
             "repo": "paratext",
             "stars": 1052
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mcastorina",
             "repo": "graph-cli",
             "stars": 809
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mechatroner",
             "repo": "rainbow_csv",
             "stars": 718
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2025-12-03T03:05:48Z",
             "owner": "microsoft",
             "repo": "vscode-data-wrangler",
-            "stars": 607
-          }
+            "stars": 608
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "d3",
             "repo": "d3-dsv",
             "stars": 446
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "kentcb",
             "repo": "KBCsv",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "fizx",
             "repo": "csvget",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "archiecobbs",
             "repo": "csvprintf",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         },
         {
           "children": [
@@ -168,7 +178,8 @@
                 "owner": "Clever",
                 "repo": "csvlint",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-28T13:45:43.376Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "faradayio",
                 "repo": "scrubcsv",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T13:45:43.376Z"
             }
           ],
           "description": null,
@@ -211,7 +223,8 @@
                 "owner": "dfinke",
                 "repo": "PSKit",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T13:45:43.376Z"
             }
           ],
           "description": null,
@@ -233,7 +246,8 @@
                 "owner": "vividvilla",
                 "repo": "csvtotable",
                 "stars": 1179
-              }
+              },
+              "first_seen": "2026-08-28T13:45:43.376Z"
             }
           ],
           "description": null,
@@ -255,11 +269,12 @@
             "archived": false,
             "id": 26898879,
             "language": null,
-            "last_commit": "2026-08-26T21:15:40Z",
+            "last_commit": "2026-08-27T22:41:18Z",
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78670
-          }
+            "stars": 78688
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         }
       ],
       "title": "Data"
@@ -280,7 +295,8 @@
             "owner": "csvy",
             "repo": "csvy.github.io",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         }
       ],
       "title": "Standards"
@@ -301,14 +317,15 @@
             "owner": "dbohdan",
             "repo": "structured-text-tools",
             "stars": 7145
-          }
+          },
+          "first_seen": "2026-08-28T13:45:43.376Z"
         }
       ],
       "title": "META: Other similar lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:19:45.832Z",
+    "last_updated": "2026-08-28T13:45:43.376Z",
     "original_repository_info": {
       "archived": false,
       "id": 152835793,
