@@ -29,11 +29,11 @@ Here are some awesome tools for dealing with CSV:
 ## Tools
 
 * [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) ⚠️ Archived - Comprehensive examples of using awk.
-* [QSV](https://github.com/dathere/qsv) ⭐ 3,776 | 🐛 30 | 🌐 Rust | 📅 2026-09-04 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+* [QSV](https://github.com/dathere/qsv) ⭐ 3,776 | 🐛 32 | 🌐 Rust | 📅 2026-09-05 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 * [ParaText](https://github.com/wiseio/paratext) ⭐ 1,052 | 🐛 34 | 🌐 C++ | 📅 2023-09-05 - CSV parsing at 2.5 GB per second.
 * [graph-cli](https://github.com/mcastorina/graph-cli) ⭐ 809 | 🐛 26 | 🌐 Python | 📅 2022-09-03 - Flexible command line tool to create graphs from CSV data.
 * [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) ⭐ 718 | 🐛 22 | 🌐 Python | 📅 2025-10-04 - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) ⭐ 718 | 🐛 22 | 🌐 Python | 📅 2025-10-04, [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
-* [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) ⭐ 608 | 🐛 270 | 📅 2025-12-03 - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
+* [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) ⭐ 607 | 🐛 270 | 📅 2025-12-03 - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 * [d3-dsv](https://github.com/d3/d3-dsv) ⭐ 446 | 🐛 15 | 🌐 JavaScript | 📅 2024-01-05 - d3.js parser and formatter module for delimiter-separated values.
 * [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) ⭐ 78 | 🐛 6 | 🌐 C# | 📅 2021-03-26 - An efficient, easy to use .NET parsing and writing library for CSV.
 * [CSVGet](http://github.com/fizx/csvget/tree/master) ⭐ 47 | 🐛 0 | 🌐 Ruby | 📅 2009-10-16 - Get structured data from sites as CSV.
@@ -109,7 +109,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Data
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,794 | 🐛 157 | 📅 2026-09-03 - A topic-centric list of high-quality open datasets in public domains.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 78,814 | 🐛 158 | 📅 2026-09-03 - A topic-centric list of high-quality open datasets in public domains.
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
@@ -162,4 +162,4 @@ To the extent possible under law, [Leon Bambrick](http://secretgeek.net) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
