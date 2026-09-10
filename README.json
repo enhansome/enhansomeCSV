@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T06:04:26Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-10T03:06:58Z",
+            "open_issues": 30,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3776,
+            "stars": 3777,
             "topics": [
               "ai",
               "ckan",
@@ -135,7 +135,7 @@
             "open_issues": 22,
             "owner": "mechatroner",
             "repo": "rainbow_csv",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "csv",
               "sql",
@@ -364,7 +364,7 @@
                 "open_issues": 6,
                 "owner": "vividvilla",
                 "repo": "csvtotable",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": [
                   "cli",
                   "data-visualization",
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-08T20:10:16Z",
-            "open_issues": 158,
+            "last_commit": "2026-09-09T21:53:02Z",
+            "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78876,
+            "stars": 78887,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T07:03:26.797Z",
+    "last_updated": "2026-09-10T06:59:37.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 49,
+      "open_issues": 50,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 945,
