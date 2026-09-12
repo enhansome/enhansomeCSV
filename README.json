@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10187,
+            "stars": 10188,
             "topics": [
               "awk",
               "command-line",
@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T06:04:47Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-12T03:37:32Z",
+            "open_issues": 27,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3780,
+            "stars": 3784,
             "topics": [
               "ai",
               "ckan",
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-10T18:15:09Z",
+            "last_commit": "2026-09-11T20:06:55Z",
             "open_issues": 159,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78903,
+            "stars": 78921,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T06:59:05.276Z",
+    "last_updated": "2026-09-12T06:50:42.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
