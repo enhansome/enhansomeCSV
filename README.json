@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T01:21:52Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-14T06:04:46Z",
+            "open_issues": 31,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3783,
+            "stars": 3786,
             "topics": [
               "ai",
               "ckan",
@@ -163,7 +163,7 @@
             "open_issues": 270,
             "owner": "microsoft",
             "repo": "vscode-data-wrangler",
-            "stars": 608,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-28T13:45:43.376Z"
@@ -181,7 +181,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2024-01-05T20:33:36Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "d3",
             "repo": "d3-dsv",
             "stars": 446,
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-11T20:06:55Z",
-            "open_issues": 159,
+            "last_commit": "2026-09-13T14:41:26Z",
+            "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78930,
+            "stars": 78940,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7145,
+            "stars": 7144,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:09:12.068Z",
+    "last_updated": "2026-09-14T07:32:49.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 51,
+      "open_issues": 49,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 945,
