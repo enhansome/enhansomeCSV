@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10187,
+            "stars": 10186,
             "topics": [
               "awk",
               "command-line",
@@ -47,7 +47,7 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T06:04:46Z",
+            "last_commit": "2026-09-15T06:04:38Z",
             "open_issues": 31,
             "owner": "dathere",
             "repo": "qsv",
@@ -65,7 +65,7 @@
               "geocode",
               "luau",
               "metadata",
-              "neurosymbolic",
+              "neuro-symbolic",
               "opendata",
               "polars",
               "sql",
@@ -135,7 +135,7 @@
             "open_issues": 22,
             "owner": "mechatroner",
             "repo": "rainbow_csv",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "csv",
               "sql",
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-09-13T14:41:26Z",
+            "last_commit": "2026-09-14T21:18:41Z",
             "open_issues": 158,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 78940,
+            "stars": 78956,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7144,
+            "stars": 7145,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:32:49.208Z",
+    "last_updated": "2026-09-15T07:10:04.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
