@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T06:06:07Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-29T06:18:19Z",
+            "open_issues": 36,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3797,
+            "stars": 3799,
             "topics": [
               "ai",
               "ckan",
@@ -163,7 +163,7 @@
             "open_issues": 270,
             "owner": "microsoft",
             "repo": "vscode-data-wrangler",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-28T13:45:43.376Z"
@@ -400,7 +400,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79194,
+            "stars": 79228,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7149,
+            "stars": 7150,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T08:11:58.475Z",
+    "last_updated": "2026-09-29T07:52:07.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 31,
+      "open_issues": 32,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 952,
