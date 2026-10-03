@@ -109,7 +109,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Data
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,277 | 🐛 161 | 📅 2026-10-02 - A topic-centric list of high-quality open datasets in public domains.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,278 | 🐛 161 | 📅 2026-10-02 - A topic-centric list of high-quality open datasets in public domains.
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.

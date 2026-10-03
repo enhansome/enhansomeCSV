@@ -400,7 +400,7 @@
             "open_issues": 161,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79277,
+            "stars": 79278,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:14:04.462Z",
+    "last_updated": "2026-10-03T07:33:56.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
