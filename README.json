@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10182,
+            "stars": 10181,
             "topics": [
               "awk",
               "command-line",
@@ -47,8 +47,8 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T06:03:29Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-09T06:04:53Z",
+            "open_issues": 27,
             "owner": "dathere",
             "repo": "qsv",
             "stars": 3805,
@@ -114,7 +114,7 @@
             "open_issues": 26,
             "owner": "mcastorina",
             "repo": "graph-cli",
-            "stars": 807,
+            "stars": 808,
             "topics": []
           },
           "first_seen": "2026-08-28T13:45:43.376Z"
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-06T21:36:16Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-08T15:37:23Z",
+            "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79376,
+            "stars": 79388,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:24:13.858Z",
+    "last_updated": "2026-10-09T08:28:17.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 39,
+      "open_issues": 37,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 953,
