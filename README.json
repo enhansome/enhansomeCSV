@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-10T19:41:13Z",
+            "last_commit": "2026-10-12T05:38:38Z",
             "open_issues": 25,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3808,
+            "stars": 3811,
             "topics": [
               "ai",
               "ckan",
@@ -400,7 +400,7 @@
             "open_issues": 163,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79422,
+            "stars": 79435,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7147,
+            "stars": 7148,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T08:16:27.446Z",
+    "last_updated": "2026-10-12T08:35:30.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -498,7 +498,7 @@
       "open_issues": 38,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
-      "stars": 953,
+      "stars": 954,
       "topics": [
         "awesome",
         "awesome-list",
