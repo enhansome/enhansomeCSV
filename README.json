@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10182,
+            "stars": 10183,
             "topics": [
               "awk",
               "command-line",
@@ -42,13 +42,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Blazing-fast Data-Wrangling toolkit",
+            "description": "Blazing-fast, Neuro-symbolic Data-Wrangling toolkit",
             "homepage": "https://qsv.dathere.com",
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T06:05:04Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-20T02:22:15Z",
+            "open_issues": 22,
             "owner": "dathere",
             "repo": "qsv",
             "stars": 3811,
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-14T18:18:24Z",
+            "last_commit": "2026-10-19T21:10:15Z",
             "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79612,
+            "stars": 79642,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7149,
+            "stars": 7150,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T07:17:55.547Z",
+    "last_updated": "2026-10-20T07:09:00.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 39,
+      "open_issues": 37,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 956,
