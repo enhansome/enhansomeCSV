@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "Command-line-text-processing",
-            "stars": 10183,
+            "stars": 10180,
             "topics": [
               "awk",
               "command-line",
@@ -47,11 +47,11 @@
             "id": 320463703,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T02:22:15Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-21T06:03:12Z",
+            "open_issues": 24,
             "owner": "dathere",
             "repo": "qsv",
-            "stars": 3811,
+            "stars": 3812,
             "topics": [
               "ai",
               "ckan",
@@ -135,7 +135,7 @@
             "open_issues": 22,
             "owner": "mechatroner",
             "repo": "rainbow_csv",
-            "stars": 722,
+            "stars": 721,
             "topics": [
               "csv",
               "sql",
@@ -181,7 +181,7 @@
             "language": "JavaScript",
             "license": "ISC",
             "last_commit": "2024-01-05T20:33:36Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "d3",
             "repo": "d3-dsv",
             "stars": 445,
@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-19T21:10:15Z",
+            "last_commit": "2026-10-20T17:04:40Z",
             "open_issues": 165,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79642,
+            "stars": 79655,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -459,7 +459,7 @@
             "open_issues": 7,
             "owner": "dbohdan",
             "repo": "structured-text-tools",
-            "stars": 7150,
+            "stars": 7151,
             "topics": [
               "awk",
               "cli",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:09:00.043Z",
+    "last_updated": "2026-10-21T07:01:55.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,7 +495,7 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 37,
+      "open_issues": 43,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
       "stars": 956,
