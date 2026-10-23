@@ -29,7 +29,7 @@ Here are some awesome tools for dealing with CSV:
 ## Tools
 
 * [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) ⚠️ Archived - Comprehensive examples of using awk.
-* [QSV](https://github.com/dathere/qsv) ⭐ 3,813 | 🐛 26 | 🌐 Rust | 📅 2026-10-22 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+* [QSV](https://github.com/dathere/qsv) ⭐ 3,813 | 🐛 23 | 🌐 Rust | 📅 2026-10-23 - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 * [ParaText](https://github.com/wiseio/paratext) ⭐ 1,052 | 🐛 34 | 🌐 C++ | 📅 2023-09-05 - CSV parsing at 2.5 GB per second.
 * [graph-cli](https://github.com/mcastorina/graph-cli) ⭐ 809 | 🐛 26 | 🌐 Python | 📅 2022-09-03 - Flexible command line tool to create graphs from CSV data.
 * [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) ⭐ 721 | 🐛 22 | 🌐 Python | 📅 2026-10-11 - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv) ⭐ 721 | 🐛 22 | 🌐 Python | 📅 2026-10-11, [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
@@ -109,7 +109,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## Data
 
-* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,666 | 🐛 165 | 📅 2026-10-21 - A topic-centric list of high-quality open datasets in public domains.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) ⭐ 79,691 | 🐛 165 | 📅 2026-10-22 - A topic-centric list of high-quality open datasets in public domains.
 * [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
 * [Australian Government Open Data](https://data.gov.au/dataset?res_format=CSV) - 2715+ CSV datasets.
 * [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
@@ -134,7 +134,7 @@ Here are some awesome tools for dealing with CSV:
 
 ## META: Other similar lists
 
-* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,150 | 🐛 7 | 📅 2026-10-16 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
+* [structured-text-tools](https://github.com/dbohdan/structured-text-tools) ⭐ 7,149 | 🐛 7 | 📅 2026-10-16 - List of command line tools for manipulating CSV / XML / HTML / JSON / INI etc.
 * [META-META](https://raw.githubusercontent.com/secretGeek/AwesomeCSV/master/awesomecsv.csv) - **This list as CSV**.
 * [META-META-META](https://nimbletext.com/Live/-971009575/) - A NimbleText pattern that produces this markdown page from this list as a CSV.
 
@@ -162,4 +162,4 @@ To the extent possible under law, [Leon Bambrick](http://secretgeek.net) has wai
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
