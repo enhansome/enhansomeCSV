@@ -396,11 +396,11 @@
             "id": 26898879,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-11-03T21:38:21Z",
+            "last_commit": "2026-11-04T19:17:42Z",
             "open_issues": 167,
             "owner": "awesomedata",
             "repo": "awesome-public-datasets",
-            "stars": 79945,
+            "stars": 79949,
             "topics": [
               "aaron-swartz",
               "awesome-public-datasets",
@@ -486,7 +486,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T08:35:32.599Z",
+    "last_updated": "2026-11-05T08:56:32.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶️A curated list of awesome tools for dealing with CSV.",
@@ -495,10 +495,10 @@
       "language": "PowerShell",
       "license": "CC0-1.0",
       "last_commit": "2026-06-11T02:43:51Z",
-      "open_issues": 51,
+      "open_issues": 54,
       "owner": "secretGeek",
       "repo": "AwesomeCSV",
-      "stars": 957,
+      "stars": 958,
       "topics": [
         "awesome",
         "awesome-list",
